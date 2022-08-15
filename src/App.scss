@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+    margin: 10px;
+}
+
+.card {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 15px;
+    // border: 2px solid black;
+}
